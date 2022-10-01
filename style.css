@@ -1,6 +1,31 @@
 body {
-  width: 700px;
-  margin: 30px auto;
-  background: coral;
-  color: : lime;
+  width: 500px;
+  margin: 50px auto;
+  background: #dae9f6;
+  text-align: center;
 }
+
+h1 {
+  color: #418242;
+  text-shadow: 2px 2px #aaaaab;
+}
+
+.greeting{
+  background-color: lightgrey;
+     margin: auto;
+  }
+
+h2{
+  color: #cf8702
+}
+
+p{
+  color: #cf8799
+  font-family: 'Silkscreen', cursive;
+}
+
+ul {
+    list-style: none;
+}
+
+a:link { text-decoration: none; }
